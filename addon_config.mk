@@ -19,8 +19,8 @@ vs:
 # https://docs.microsoft.com/cpp/error-messages/compiler-warnings/compiler-warnings-c4000-through-c4199
 # https://docs.microsoft.com/cpp/error-messages/compiler-warnings/compiler-warnings-c4200-through-c4399
 # about uninitialized
-	ADDON_CPPFLAGS += "/w4533"
-	ADDON_CPPFLAGS  = "/w4701"
-	ADDON_CPPFLAGS += "/w4703"
+	ADDON_CPPFLAGS  = "/we4533"
+	ADDON_CPPFLAGS += "/we4701"
+	ADDON_CPPFLAGS += "/we4703"
 # about return-type
 	ADDON_CPPFLAGS += "/we4715"
