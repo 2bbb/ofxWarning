@@ -11,8 +11,9 @@ create/update Project with this addon.
 if you use ~0.10.0, you need to use latest ProjectGenerator.
 
 * [PG for macOS](https://drive.google.com/open?id=1qal2sZ81Up1g-GyfgCYzgDgHerBUyPsD) (built on 10.13.6)
+* [PG for win](https://drive.google.com/open?id=1kYOG9rTXhpGq26wKjK7xlOS2TyDXjGT3) (built on win10)
 
-(maybe PG will update on 0.10.1)
+(maybe PG will be update on 0.10.1)
 
 ### how to build PG
 
